@@ -1,0 +1,1 @@
+const WorkerSignup = () => <div className='p-6'>Worker Signup</div>; export default WorkerSignup;

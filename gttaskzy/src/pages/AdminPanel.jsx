@@ -1,0 +1,1 @@
+const AdminPanel = () => <div className='p-6'>Admin Panel</div>; export default AdminPanel;

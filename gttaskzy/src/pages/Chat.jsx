@@ -1,0 +1,1 @@
+const Chat = () => <div className='p-6'>Chat Page</div>; export default Chat;
